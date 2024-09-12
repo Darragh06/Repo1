@@ -1,5 +1,5 @@
 # Repo1
 test
-/nhello world
-/nthis is pretty cool
-/nalex clark is a poopy bum face
+hello world
+this is pretty cool
+alex clark is a poopy bum face
